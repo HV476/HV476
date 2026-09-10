@@ -1,7 +1,5 @@
-Harsh Vardhan
 
-
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm [Harsh Vardhan]</h1>
 <h3 align="center">CS Student • Backend Engineer • Building with LLMs & RAG</h3>
 
 <p align="center">
@@ -12,14 +10,11 @@ Harsh Vardhan
 
 ### 🚀 About Me
 
-- 🎓 Computer Science student, focused on **backend engineering** and **AI/LLM systems**
-- 🧠 Deep interest in **Generative AI, LLMs, RAG (Retrieval-Augmented Generation), and AI engineering**
-- 🛠️ I like building things that are scalable on the backend and intelligent on the AI layer
-- 🌱 Currently exploring: vector databases, LLM orchestration frameworks, and agentic workflows
-- 💬 Ask me about: APIs, system design basics, LangChain/LlamaIndex, embeddings, RAG pipelines
-- 📫 Reach me at: **[your.email@example.com]**
-- ⚡ Fun fact: [add something fun about yourself]
-
+-  Computer Science student, focused on **backend engineering** and **AI/LLM systems**
+-  Deep interest in **Generative AI, LLMs, RAG (Retrieval-Augmented Generation), and AI engineering**
+-  I like building things that are scalable on the backend and intelligent on the AI layer
+-  Currently exploring: vector databases, LLM orchestration frameworks, and agentic workflows
+-  Ask me about: APIs, system design basics, LangChain/LlamaIndex, embeddings, RAG pipelines
 ---
 
 ### 🧰 Tech Stack
