@@ -56,15 +56,9 @@
 </p>
 
 ---
-
-### 🔭 Featured Projects
-
-> Replace these with your actual repos — link directly to each project.
-
-- **[Project Name 1](https://github.com/your-username/repo-1)** — A RAG-based Q&A system using [LangChain/LlamaIndex] + [vector DB], with a FastAPI backend serving retrieval results.
-- **[Project Name 2](https://github.com/your-username/repo-2)** — A backend API (FastAPI/Django) implementing [auth, caching, rate limiting] with PostgreSQL.
-- **[Project Name 3](https://github.com/your-username/repo-3)** — An LLM-powered [chatbot/agent/tool] exploring prompt engineering and tool-calling.
-
+<p align="center">
+<img src="https://count.getloli.com/@:HV476" alt="Profile views" />
+</p
 ---
 
 ### 📊 GitHub Stats
