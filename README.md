@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm [Harsh Vardhan]</h1>
+<h1 align="center">Hi 👋, I'm Harsh Vardhan</h1>
 <h3 align="center">CS Student • Backend Engineer • Building with LLMs & RAG</h3>
 
 <p align="center">
