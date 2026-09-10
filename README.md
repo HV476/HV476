@@ -56,20 +56,12 @@
 </p>
 
 ---
-<p align="center">
-<img src="https://count.getloli.com/@:HV476" alt="Profile views" />
-</p
----
 
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" width="50%" />
 </p>
 
 ---
@@ -85,10 +77,10 @@
 
 <p align="center"><i>⭐ from every repo helps — thanks for stopping by!</i></p>
 
-<!--
-**HV476/HV476** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!<p align="center">
+<img src="https://count.getloli.com/@:HV476" alt="Profile views" />
+</p--
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
